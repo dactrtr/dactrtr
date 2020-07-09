@@ -4,6 +4,6 @@ Hi, I'm **Sebastián Zúñiga**, **[UI designer](https://www.linkedin.com/in/d
 
 **Hey!** wait, all that knowledge research is **useless if isn't shared**, that's why with one of my **[friends](http://www.arielcerda.com/)** we run a small group of **[Sketch](https://medium.com/sketchchile)** where we share tutorials and stuff so cool that sometimes seems to be **frozen**.
 
-Actually based in **my room**, working remotely for **[Elun](http://www.elun.cl/)**.
+Actually based in **my room** (thanks Covid), working remotely for **[Elun](http://www.elun.cl/)**.
 
 Previously at **[Mckinsey Chile](https://www.mckinsey.com/)** and **[DeNA Chile](https://dena.com/intl/)**
