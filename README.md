@@ -1,7 +1,7 @@
 #### Hello hello hello 🤘
 ## Dactrttrt...what?
 ##### don't mind call me Seb
-![I also do some drawings](https://media-exp1.licdn.com/dms/image/C4D16AQFE9ZBg56mmCg/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=RTu0GLTh912PvCHntFUgZXw8wPyuTR8FRrHqJabWBys)
+![I also do some drawings](https://github.com/dactrtr/dactrtr/blob/master/header.jpeg)
 
 
 Hi, I'm **Sebastián Zúñiga**, **[UI designer](https://www.linkedin.com/in/dactrtr/)** and **[Illustrator](https://www.instagram.com/dactrtr.svg/)**, always looking for the new "tech kid on the block", researching to improve my work, or developing (I also like to **[code](https://github.com/dactrtr)**) new skills. I'm the serious looking funny guy at every place and the designer that is in the middle of the developers talking like one more of the pack.
