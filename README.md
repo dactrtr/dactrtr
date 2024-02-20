@@ -8,7 +8,7 @@ Hi, I'm **Sebastián Zúñiga**, **[UI/UX Frontend designer](https://www.linke
 
 **Hey!** wait, all that knowledge research is **useless if isn't shared**, that's why with one of my **[friends](http://www.arielcerda.com/)** we run a small group of **[Sketch](https://medium.com/sketchchile)** where we share tutorials and stuff so cool that sometimes ~~seems to be **frozen**~~ it's actually frozen in time.
 
-Actually based in **Japan** ~~South Korea~~ ~~Portugal~~ ~~Austria~~ ~~Romania~~ ~~Bulgaria~~ ~~France~~ ~~Tukye~~ ~~Sri Lanka~~ ~~Chile~~ , working remotely for **[BraveUP](https://www.braveup.com/)**.
+Actually based in **Japan** ~~South Korea~~ ~~Portugal~~ ~~Austria~~ ~~Romania~~ ~~Bulgaria~~ ~~France~~ ~~Tukye~~ ~~Sri Lanka~~ ~~Chile~~ , working remotely for **Myself**
 
 Learning SwiftUI and LUA.
 
