@@ -1,6 +1,6 @@
 #### Hello hello hello 🤘
 ## Dactrttrt...what?
-##### don't mind call me Seb
+##### don't mind call me セバ.
 ![I also do some drawings](https://github.com/dactrtr/dactrtr/blob/master/header.jpeg)
 
 
@@ -8,8 +8,10 @@ Hi, I'm **Sebastián Zúñiga**, **[UI/UX Frontend designer](https://www.linke
 
 **Hey!** wait, all that knowledge research is **useless if isn't shared**, that's why with one of my **[friends](http://www.arielcerda.com/)** we run a small group of **[Sketch](https://medium.com/sketchchile)** where we share tutorials and stuff so cool that sometimes ~~seems to be **frozen**~~ it's actually frozen in time.
 
-Actually based in **Japan** ~~South Korea~~ ~~Portugal~~ ~~Austria~~ ~~Romania~~ ~~Bulgaria~~ ~~France~~ ~~Tukye~~ ~~Sri Lanka~~ ~~Chile~~ , working remotely for **Myself**
+Actually based in **Japan** ~~South Korea~~ ~~Portugal~~ ~~Austria~~ ~~Romania~~ ~~Bulgaria~~ ~~France~~ ~~Tukye~~ ~~Sri Lanka~~ ~~Chile~~ , working remotely for **My own game**
 
-Learning SwiftUI and LUA.
+You can learn more About the game in [our newsletter](https://mailchi.mp/3adfcb48400f/tangara-studio-suscription-page).
+
+Learning SwiftUI,LUA & Japanese.
 
 Previously at **[Mckinsey Chile](https://www.mckinsey.com/)** and **[DeNA Chile](https://dena.com/intl/)**
