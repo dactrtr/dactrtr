@@ -13,11 +13,16 @@ Also learning **Japanese**. Slowly. But learning.
 
 ---
 
-🎨 Design & creative work → **[behance.net/dactrtr](https://www.behance.net/dactrtr)**
-💻 Code & projects → **[github.com/dactrtr](https://github.com/dactrtr)**
-🌐 Portfolio → **[dactrtr.rocks](https://dactrdr.rocks)**
-🎮 Game studio newsletter → **[Tangara Studio](https://mailchi.mp/3adfcb48400f/tangara-studio-suscription-page)**
-🎨 Illustrations → **[Instagram](https://www.instagram.com/dactrtr.svg/)**
-💼 LinkedIn → **[dactrtr](https://www.linkedin.com/in/dactrtr/)**
+Design & creative work → **[behance.net/dactrtr](https://www.behance.net/dactrtr)**
+
+Code & projects → **[github.com/dactrtr](https://github.com/dactrtr)**
+
+Portfolio → **[dactrtr.rocks](https://dactrtr.rocks)**
+
+Game studio newsletter → **[Tangara Studio](https://mailchi.mp/3adfcb48400f/tangara-studio-suscription-page)**
+
+Illustrations → **[Instagram](https://www.instagram.com/dactrtr.svg/)**
+
+LinkedIn → **[dactrtr](https://www.linkedin.com/in/dactrtr/)**
 
 Previously at **[McKinsey](https://www.mckinsey.com/)** and **[DeNA](https://dena.com/intl/)**.
